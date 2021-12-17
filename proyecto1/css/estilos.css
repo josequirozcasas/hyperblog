@@ -34,11 +34,18 @@ body
     margin: 0 auto;
 }
 
-#container h1
+#cabecera #tagline
 {
-    font-size: 20px;
+    padding: 0 0 0 1cm;
+    font-weight: normal;
+    font-size: 0.8cm;
 }
-#post
+
+#container
 {
-    padding: 1em;
+    width: 70%;
+    padding: 0;
+    text-align: left;
+    border: 1px solid #DDD;
+    margin: 0 auto;
 }
